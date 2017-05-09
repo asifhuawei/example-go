@@ -1,4 +1,4 @@
-[Codecov][1] Go Example
+[Codecov][1] Go Example [![Build Status](https://travis-ci.org/asifhuawei/example-go.svg?branch=master)](https://travis-ci.org/asifhuawei/example-go)
 =======================
 
 This repository serves as an **example** on how to use [Codecov Global][4] for Go.
