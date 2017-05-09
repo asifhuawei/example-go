@@ -8,7 +8,7 @@ func Setup() {
 
     // Comment
     //Check the comments
-    result = awesome..M.Smile()
+    result = awesome.Smile()
 
 }
 
