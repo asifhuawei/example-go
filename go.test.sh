@@ -10,3 +10,5 @@ for d in $(go list ./... | grep -v vendor); do
         rm profile.out
     fi
 done
+
+coveralls --verbose --encodings utf-8 latin-1 foobar
